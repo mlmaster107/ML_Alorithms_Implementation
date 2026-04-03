@@ -28,7 +28,7 @@ This repository is designed as a learning hub — helping you understand not onl
 - **Core ML Concepts**
   - Overfitting ✅
   - Underfitting ✅
-  - Bias-Variance Tradeoff (planned)
+  - Bias-Variance Tradeoff ✅
   - Regularization (L1/L2) (planned)
 
 ---

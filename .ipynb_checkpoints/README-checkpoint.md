@@ -39,24 +39,23 @@ This repository is designed as a learning hub — helping you understand not onl
 
 ML_Alorithms_Implementation/
 │
-├── LinearRegression/           # Linear Regression implementation
+├── LinearRegression/
 │   ├── Linear_regression.ipynb
 │   ├── train.csv
-│   └── LinearRegressionNotes.pdf
+│   └── notes.pdf
 │
-├── logistis_regression/        # Logistic Regression implementation
+├── LogisticRegression/
 │   ├── Logistic_Regression.ipynb
 │   ├── Logistic_Regression.py
-│   ├── frames/                 # Saved decision boundary frames
-│   ├── db_spiral.gif
-│   ├── pairplot_best_features.png
-│   └── pairplot_worst_features.png
+│   └── outputs/   # keep plots/gifs here
+│       ├── db_spiral.gif
+│       ├── pairplot_best_features.png
+│       └── pairplot_worst_features.png
 │
-├── Overfitting/                # Overfitting & Underfitting demos
-│   ├── OverFiting_UnderFiting.ipynb
-│   └── plots/                  # Visualizations   
-├── knn/                        # (Coming soon)
-├── svm/                        # (Coming soon)
-├── decision_trees/             # (Coming soon)
-├── clustering/                 # (Coming soon)
+├── Overfitting/
+│   └── OverFitting_UnderFitting.ipynb
+│
+├── DecisionTrees/   # (future)
+├── KNN/             # (future)
+├── SVM/             # (future)
 └── README.md
